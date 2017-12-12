@@ -1,0 +1,2 @@
+//switch
+let moonPhase = 'full';
